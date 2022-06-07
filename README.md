@@ -30,11 +30,11 @@
 
 ### Мой блог
 <!-- BLOG-POST-LIST:START -->
+- [Туториал по установке VPN WireGuard](https://dotmix.pw//posts/wireinstall/)
 - [Обновление сайта](https://dotmix.pw//posts/siteupdate/)
 - [Донат 💰](https://dotmix.pw//donate/)
 - [Инструменты](https://dotmix.pw//tools/)
 - [Обо мне](https://dotmix.pw//about/)
-- [Портфолио](https://dotmix.pw//portfolio/)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
